@@ -72,7 +72,6 @@ dependencies:
   - tornado=6.1
   - wheel=0.37.1
   - xz=5.2.5
-  - zlib=1.2.11
   - zstd=1.4.9
   - pip:
     - argon2-cffi==21.3.0
